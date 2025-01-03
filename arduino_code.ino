@@ -39,5 +39,5 @@ void loop() {
     Serial.println(ivme_x);
   }
   
-  delay(200);                                                           // Biraz bekleyelim
+  delay(200);    
 }
