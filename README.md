@@ -20,3 +20,7 @@ Eğer arduino_code.ino kodunu kullanırsanız, Python kısmında main.py kodunu 
 Arduino’ya kodu yükledikten ve devremizi kaykaya yerleştirdikten sonra, yüklediğiniz Arduino koduna uygun Python dosyasını çalıştırarak kaykay oyununuzu açabilirsiniz.
 
 Artık elinizde bir kaykay simülatörü var! İyi eğlenceler dilerim.
+
+![kapak 1 1 rew](https://github.com/user-attachments/assets/304602b9-61ae-4089-becf-ea2116763bc5)
+![Ekran görüntüsü 2025-01-03 041547](https://github.com/user-attachments/assets/f8181a6a-a311-4926-8a06-a9fe5db35c2f)
+![Ekran görüntüsü 2025-01-03 042631](https://github.com/user-attachments/assets/c74069de-2a1b-4fed-b446-5b5e0ca05eea)
